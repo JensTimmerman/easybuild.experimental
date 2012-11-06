@@ -10,4 +10,4 @@ Whatever you do, remember the words of this guy [http://www.ece.cmu.edu/~ganger/
 Now, jump to the wiki for more details:
 https://github.com/fgeorgatos/easybuild.experimental/wiki/
 and/or: 
-https://github.com/hpcugent/easybuild/issues/222
+https://github.com/hpcugent/easybuild-framework/issues/222
